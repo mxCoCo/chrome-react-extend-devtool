@@ -1,0 +1,1 @@
+打开chrome浏览器的扩展程序，选择上面react-devtools目录。
